@@ -1,3 +1,11 @@
-# Learning template [![version](https://img.shields.io/github/release/hchiam/learning-template)](https://github.com/hchiam/learning-template/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hchiam/learning-template/blob/master/LICENSE)
+# Learning Storybook.js
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
+
+[Storybook](https://storybook.js.org) lets you do things like a living documentation library that demos isolated interactive components.
+
+## Tutorials
+
+Quick setup (React): <https://www.youtube.com/watch?v=VApXDsYO5Gg>
+
+Setup (Vue) + explanation on Storybook it can be useful: <https://www.youtube.com/watch?v=lIgiiScIjgg>
